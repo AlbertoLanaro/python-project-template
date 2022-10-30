@@ -1,4 +1,4 @@
-from python_template_project.utils import get_hello_world_str
+from python_project_template.utils import get_hello_world_str
 
 
 def main():
